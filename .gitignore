@@ -1,6 +1,8 @@
 # Folders and files to ignore in a Python project
 documents/ToSort
-
+data/
+/faiss_index/
+index.faiss
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
